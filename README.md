@@ -5,4 +5,4 @@ Aprenda gratuitamente quais são as tecnologias usadas no Banco Carrefour, uma i
 
 
 Aula: Introdução ao GitHub e comandos para trabalhar em equipe
-Aprenda a trabalhar com o repositório remoto e a clonar projetos.
+Aprenda a trabalhar com o repositório remoto e a clonar seus projetos.
